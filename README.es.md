@@ -32,7 +32,7 @@
 
 Vercel:<http://dy.ttentau.top/>(China recomienda visitar esto)
 
-Netlificar:<https://douyins.netlify.app/>(Recomiende visitar esto para áreas fuera de China)
+Netlificar:<https://douyins.netlify.app/>(Se recomienda visitar esto para áreas fuera de China)
 
 Android Apk:<https://github.com/zyronon/douyin/releases>
 
@@ -93,17 +93,17 @@ El contenido anterior es toda información pública en Internet.
 
 ## Funciones y sugerencias
 
-El proyecto se encuentra actualmente en las primeras etapas de desarrollo y continuamente se agregan nuevas funciones. Si tiene alguna característica o sugerencia para el software, no dude en contactarnos.`Issues`criado en
+El proyecto se encuentra actualmente en las primeras etapas de desarrollo y continuamente se agregan nuevas características. Si tiene alguna característica o sugerencia para el software, no dude en contactarnos.`Issues`criado en
 Si también le gustan las ideas de diseño de este software, envíelas.`PR`, ¡Muchas gracias por tu apoyo!
 
 ## contáctame
 
-您可以联系我的邮箱 <a href="mailto:zyronon@163.com">zyronon@163.com</a>
+Puedes contactar a mi correo<a href="mailto:zyronon@163.com">zyronon@163.com</a>
 
 > Comparta mis otros proyectos de código abierto:
 >
 > _[**Escribir palabra**- Software de memorización de vocabulario que se puede utilizar en la web ~](https://github.com/zyronon/typing-word)<img src="https://img.shields.io/github/stars/zyronon/typing-word.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_  
-> _[**Guiones web**- Algunos scripts útiles de Grease Monkey~](https://github.com/zyronon/web-scripts)<img src="https://img.shields.io/github/stars/zyronon/web-scripts.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_
+> _[**Guiones web**- Algunos scripts útiles de Grease Monkey~](https://github.com/zyronon/web-scripts) <img src="https://img.shields.io/github/stars/zyronon/web-scripts.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_
 
 ## acuerdo
 
