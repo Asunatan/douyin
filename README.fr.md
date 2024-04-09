@@ -32,7 +32,7 @@
 
 Vercel :<http://dy.ttentau.top/>(La Chine recommande de visiter ceci)
 
-Netlifier :<https://douyins.netlify.app/>(Je recommande de visiter ceci pour les régions en dehors de la Chine)
+Netlifier :<https://douyins.netlify.app/>(Recommandé de visiter ceci pour les zones en dehors de la Chine)
 
 Android Apk :<https://github.com/zyronon/douyin/releases>
 
@@ -96,7 +96,7 @@ Le contenu ci-dessus est toute l'information publique sur Internet
 Le projet en est actuellement aux premiers stades de développement et de nouvelles fonctionnalités sont ajoutées continuellement. Si vous avez des fonctionnalités ou des suggestions pour le logiciel, n'hésitez pas à nous contacter.`Issues`élevé dans
 Si vous aimez également les idées de conception de ce logiciel, veuillez le soumettre`PR`, Merci beaucoup pour votre soutient!
 
-## Contactez moi
+## 联系我
 
 Vous pouvez contacter mon email<a href="mailto:zyronon@163.com">zyronon@163.com</a>
 
