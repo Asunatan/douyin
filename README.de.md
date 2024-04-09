@@ -13,7 +13,7 @@
   <a><img src="https://img.shields.io/badge/Powered%20by-Vue-blue"/></a>
 </p>
 
-`douyin-vue`ist eine Parodie`抖音|TikTok`mobiles Kurzvideoprojekt, das auf basiert[`Vue`](https://cn.vuejs.org/)、[`Vite`](https://cn.vitejs.dev/)erreichen. Habe das Neueste verwendet`Vue`FamilyMart-Technologie-Stack. API-Daten werden lokal im Projekt gespeichert und das Video wird daraus gesammelt`抖音|TikTok`, der Atlas stammt aus`小红书|Xiaohongshu`,passieren[`axios-mock-adapter`](https://github.com/ctimmerm/axios-mock-adapter)Die Bibliothek fängt die API ab und gibt lokale JSON-Daten zurück, um echte Back-End-Anfragen zu simulieren.
+`douyin-vue`ist eine Parodie`抖音|TikTok`mobiles Kurzvideoprojekt, das auf basiert[`Vue`](https://cn.vuejs.org/)、[`Vite`](https://cn.vitejs.dev/)erreichen. Habe das Neueste verwendet`Vue`FamilyMart-Technologie-Stack. API-Daten werden lokal im Projekt gespeichert und das Video wird daraus gesammelt`抖音|TikTok`, der Atlas stammt aus`小红书|Xiaohongshu`，通过 [`axios-mock-adapter`](https://github.com/ctimmerm/axios-mock-adapter)Die Bibliothek fängt die API ab und gibt lokale JSON-Daten zurück, um echte Back-End-Anfragen zu simulieren.
 
 <div>
 <img width="150px" src='docs/imgs/1.gif' />
@@ -32,13 +32,13 @@
 
 Vercel:<http://dy.ttentau.top/>(China empfiehlt den Besuch hier)
 
-Netlify:<https://douyins.netlify.app/>(Für Gebiete außerhalb Chinas empfehlen wir den Besuch hier)
+Netlify:<https://douyins.netlify.app/>(Für Gebiete außerhalb Chinas wird ein Besuch empfohlen)
 
 Android-Apk:<https://github.com/zyronon/douyin/releases>
 
-**Beachten**：`PC`Sie müssen den Browser in den mobilen Modus schalten, zuerst drücken`F12`Um die Konsole aufzurufen, drücken Sie`Ctrl+Shift+M`um eine normale Vorschau anzuzeigen
+**Beachten**：`PC`Sie müssen den Browser in den mobilen Modus schalten, zuerst drücken`F12`Um die Konsole aufzurufen, drücken Sie`Ctrl+Shift+M`才能正常预览
 
-**注意**: Bitte benutzen Sie Ihr Mobiltelefon[über Browser](https://viayoo.com/zh-cn/)oder Chrome-Browservorschau. Andere Browser erzwingen möglicherweise, dass das Video im Vollbildmodus angezeigt wird, was dazu führt, dass es nicht richtig angezeigt wird.
+**Beachten**：手机请用  [über Browser](https://viayoo.com/zh-cn/)oder Chrome-Browservorschau. Andere Browser erzwingen möglicherweise, dass das Video im Vollbildmodus angezeigt wird, was dazu führt, dass es nicht richtig angezeigt wird.
 
 ## Haftungsausschluss
 
@@ -66,10 +66,10 @@ npm run dev
 ## Verknüpfung
 
 -   `开源中国`:<https://mp.weixin.qq.com/s/TWowmZpU_ojE5G2KzXuU8g>
--   `V2EX`:<https://www.v2ex.com/t/1028678>
--   `掘金`:<https://juejin.cn/post/7352813352051687458>
+-   `V2EX`: <https://www.v2ex.com/t/1028678>
+-   `掘金`: <https://juejin.cn/post/7352813352051687458>
 
-## Datenquellen
+## 数据来源
 
 Das Video stammt von folgenden Douyin-Prominenten
 
@@ -80,7 +80,7 @@ Das Video stammt von folgenden Douyin-Prominenten
 -   `小橙子`:<https://v.douyin.com/iYRAnudw/>
 -   `南恬`:<https://v.douyin.com/iYRAbKm3/>
 -   `小霸宠牛排 🥩`：<https://v.douyin.com/iYRSosVB/>
--   `奶茶妹 ◕🌱`:<https://v.douyin.com/iYRACKhP/>
+-   `奶茶妹 ◕🌱`: <https://v.douyin.com/iYRACKhP/>
 -   `我才是岚岚`:<https://v.douyin.com/iYRAQM1C/>
 -   `周憬艺 ziran`:<https://v.douyin.com/iYRAQs4h/>
 -   `刘思瑶 nice`:<https://v.douyin.com/iYRAaERn/>
@@ -94,7 +94,7 @@ Bei den oben genannten Inhalten handelt es sich um alle öffentlichen Informatio
 ## Funktionen und Vorschläge
 
 Das Projekt befindet sich derzeit in einem frühen Entwicklungsstadium und es werden kontinuierlich neue Funktionen hinzugefügt. Wenn Sie Funktionen oder Vorschläge für die Software haben, können Sie sich gerne an uns wenden.`Issues`aufgewachsen in
-Wenn Ihnen die Designideen dieser Software auch gefallen, reichen Sie sie bitte ein`PR`, Vielen Dank für deine Unterstützung!
+Wenn Ihnen die Designideen dieser Software auch gefallen, reichen Sie sie bitte ein`PR`，非常感谢你对我们的支持！
 
 ## kontaktiere mich
 
